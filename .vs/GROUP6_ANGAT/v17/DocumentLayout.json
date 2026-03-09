@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\training.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\training.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\puhunan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\puhunan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\hanapgawa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\hanapgawa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\directory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\directory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\directory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\directory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\pages\\hanaptrabaho.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\pages\\hanaptrabaho.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|c:\\users\\jaime\\downloads\\group6_angat\\group6_angat\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28AC1203-BB69-4557-AB74-FA9111DF68FD}|GROUP6_ANGAT\\GROUP6_ANGAT.csproj|solutionrelative:group6_angat\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Training.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Training.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\Training.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Training.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\Training.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T13:05:56.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Puhunan.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Puhunan.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\Puhunan.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Puhunan.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\Puhunan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T13:04:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HanapGawa.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\HanapGawa.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\HanapGawa.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\HanapGawa.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\HanapGawa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T13:02:53.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Directory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Directory.aspx.cs",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\Directory.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Directory.aspx.cs",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\Directory.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:01:09.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Directory.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Directory.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\Directory.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Directory.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\Directory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T13:00:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Contact.aspx.cs",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\Contact.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:25:38.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HanapTrabaho.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\HanapTrabaho.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\HanapTrabaho.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\HanapTrabaho.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\HanapTrabaho.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T12:22:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Contact.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\Contact.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T12:18:31.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\About.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Pages\\About.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Pages\\About.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Pages\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T11:49:50.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\site.css",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\site.css",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\site.css",
+              "RelativeToolTip": "GROUP6_ANGAT\\site.css",
+              "ViewState": "AgIAAJEEAAAAAAAAAAAIwK8EAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-09T11:45:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Site.Master",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Site.Master",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Site.Master",
+              "RelativeToolTip": "GROUP6_ANGAT\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T11:24:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Default.aspx.cs",
+              "RelativeToolTip": "GROUP6_ANGAT\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:58:16.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Default.aspx",
+              "RelativeDocumentMoniker": "GROUP6_ANGAT\\Default.aspx",
+              "ToolTip": "C:\\Users\\Jaime\\Downloads\\GROUP6_ANGAT\\GROUP6_ANGAT\\Default.aspx",
+              "RelativeToolTip": "GROUP6_ANGAT\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-09T05:55:58.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
